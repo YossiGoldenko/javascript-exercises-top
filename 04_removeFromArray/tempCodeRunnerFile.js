@@ -1,0 +1,1 @@
+            if(element == arguments[j]){
